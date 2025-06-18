@@ -21,9 +21,9 @@ div {
     
 }
 .box1{
+    display: flex;
+    flex-direction: row;
     background-color: #1F2937;
     height: 300px;
-    
-    
 }
 

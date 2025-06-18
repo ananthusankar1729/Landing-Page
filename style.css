@@ -15,4 +15,8 @@ h1 {
 .hi {
     margin-right: 200px;
 }
+div {
+    display: flex;
+    
+}
 

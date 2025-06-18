@@ -25,12 +25,27 @@ div {
     flex-direction: row;
     background-color: #1F2937;
     height: 300px;
+    justify-content: center;
+    align-content: center;
 }
 button{
     color: white;
     background-color: blue;
     border-radius: 5px;
-    margin-right: 800px;
+    margin-right: 500px;
     border: 1px solid #1F2937;
     padding: 5px;
+}
+.left{
+    color: whitesmoke;
+    width: 600px;
+
+}
+.right{
+    color: whitesmoke;
+    background-color: grey;
+    margin-bottom: 20px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
 }
